@@ -1,2 +1,2 @@
 # figurebed
-juezho的图床
+juezho的私人图床
