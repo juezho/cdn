@@ -10,13 +10,13 @@ $('body').append('<div class="prpr"><div class="waifu-tips"></div><canvas id="li
 
 // 加载 JS
 $.ajax({
-    url: '//cdn.jsdelivr.net/gh/juezho/cdn/live2d/waifu-tips.min.js',
+    url: '//cdn.jsdelivr.net/gh/juezho/cdn/live2d/live2d.min.js',
     dataType: "script",
     cache: true,
     async: false
 });
 $.ajax({
-    url: '//cdn.jsdelivr.net/gh/juezho/cdn/live2d/live2d.min.js',
+    url: '//cdn.jsdelivr.net/gh/juezho/cdn/live2d/waifu-tips.min.js',
     dataType: "script",
     cache: true,
     async: false,
