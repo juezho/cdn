@@ -7952,6 +7952,9 @@ td.hljs-ln-numbers {
     .center-text{
         font-size:70px;
     }
+    .live2d-tool{
+        display:none;
+    }
 }
 @media(max-width:560px) {
     .center-text{
