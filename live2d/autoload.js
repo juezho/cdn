@@ -1,6 +1,6 @@
 // 加载 CSS
 $("<link>").attr({
-    href: "//cdn.jsdelivr.net/gh/juezho/cdn/live2d/waifu.css",
+    href: "//cdn.jsdelivr.net/gh/juezho/cdn/live2d/waifu.min.css",
     rel: "stylesheet",
     type: "text/css"
 }).appendTo('head');
